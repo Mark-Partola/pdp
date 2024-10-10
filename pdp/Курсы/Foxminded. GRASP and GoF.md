@@ -1,0 +1,1 @@
+https://coursehunter.net/course/grasp-and-gof-design-patterns-advanced-on-line-course
