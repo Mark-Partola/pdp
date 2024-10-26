@@ -13,10 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pdp/Разобраться в Go.md",
+                "file": "pdp/2024. Октябрь.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024. Октябрь"
+            }
+          },
+          {
+            "id": "abaf35f7e11565b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pdp/2024. Октябрь.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024. Октябрь"
             }
           }
         ]
@@ -39,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -54,7 +72,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -62,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
@@ -85,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdp/Разобраться в Go.md",
+                "file": "pdp/2024. Октябрь.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +115,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 2024. Октябрь"
             }
           },
           {
@@ -102,10 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdp/Разобраться в Go.md",
+                "file": "pdp/2024. Октябрь.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 2024. Октябрь"
             }
           },
           {
@@ -116,7 +142,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -125,8 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdp/Разобраться в Go.md"
-              }
+                "file": "pdp/2024. Октябрь.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура 2024. Октябрь"
             }
           }
         ],
@@ -147,15 +177,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8628271458889a4f",
+  "active": "f16787925b7fb885",
   "lastOpenFiles": [
     "pdp/Вопросы по Go.md",
-    "pdp/Разобраться в Go.md",
-    "pdp/Конференции.md",
     "pdp/Доклады.md",
+    "pdp/Заметки Go.md",
+    "pdp/Статьи.md",
+    "pdp/Конференции.md",
+    "pdp/2024. Октябрь.md",
+    "Screenshot 2024-10-13 at 14.38.18.png",
+    "pdp/Без названия",
+    "Screenshot 2024-10-13 at 01.05.40.png",
     "1.png",
     "Screenshot 2024-10-10 at 22.35.34.png.md",
-    "pdp/2024. Октябрь.md",
     "pdp",
     "Общее.md"
   ]
