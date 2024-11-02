@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pdp/2024. Октябрь.md",
+                "file": "pdp/Заметки Go.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024. Октябрь"
+              "title": "Заметки Go"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdp/2024. Октябрь.md"
+                "file": "pdp/Заметки Go.md"
               },
               "icon": "lucide-list",
-              "title": "Структура 2024. Октябрь"
+              "title": "Структура Заметки Go"
             }
           }
         ],
@@ -179,16 +179,17 @@
   },
   "active": "f16787925b7fb885",
   "lastOpenFiles": [
+    "Screenshot 2024-10-13 at 01.05.40.png",
+    "Screenshot 2024-10-13 at 14.38.18.png",
+    "pdp/Заметки Go.md",
+    "1.png",
+    "pdp/2024. Ноябрь.md",
+    "pdp/2024. Октябрь.md",
     "pdp/Вопросы по Go.md",
     "pdp/Доклады.md",
-    "pdp/Заметки Go.md",
     "pdp/Статьи.md",
     "pdp/Конференции.md",
-    "pdp/2024. Октябрь.md",
-    "Screenshot 2024-10-13 at 14.38.18.png",
     "pdp/Без названия",
-    "Screenshot 2024-10-13 at 01.05.40.png",
-    "1.png",
     "Screenshot 2024-10-10 at 22.35.34.png.md",
     "pdp",
     "Общее.md"
