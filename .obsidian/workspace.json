@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pdp/Заметки Go.md",
+                "file": "pdp/2024. Ноябрь.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Заметки Go"
+              "title": "2024. Ноябрь"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdp/Заметки Go.md"
+                "file": "pdp/2024. Ноябрь.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Заметки Go"
+              "title": "Структура 2024. Ноябрь"
             }
           }
         ],
@@ -179,17 +179,20 @@
   },
   "active": "f16787925b7fb885",
   "lastOpenFiles": [
+    "pdp/2024. Октябрь.md",
+    "pdp/Разобраться/- AutoAnimate.md",
+    "pdp/Разобраться/- Turborepo.md",
+    "pdp/2024. Ноябрь.md",
+    "pdp/Разобраться",
+    "pdp/Курсы/React Router v6.md",
+    "pdp/Заметки Go.md",
     "Screenshot 2024-10-13 at 01.05.40.png",
     "Screenshot 2024-10-13 at 14.38.18.png",
-    "pdp/Заметки Go.md",
     "1.png",
-    "pdp/2024. Ноябрь.md",
-    "pdp/2024. Октябрь.md",
     "pdp/Вопросы по Go.md",
     "pdp/Доклады.md",
     "pdp/Статьи.md",
     "pdp/Конференции.md",
-    "pdp/Без названия",
     "Screenshot 2024-10-10 at 22.35.34.png.md",
     "pdp",
     "Общее.md"
