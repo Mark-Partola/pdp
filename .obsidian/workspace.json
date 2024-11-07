@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f16787925b7fb885",
+            "id": "abaf35f7e11565b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "2024. Ноябрь"
-            }
-          },
-          {
-            "id": "abaf35f7e11565b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pdp/2024. Октябрь.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024. Октябрь"
             }
           }
         ]
@@ -177,22 +163,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f16787925b7fb885",
+  "active": "abaf35f7e11565b3",
   "lastOpenFiles": [
+    "pdp/Доклады.md",
+    "pdp/Курсы/React Query.md",
+    "pdp/2024. Ноябрь.md",
+    "pdp/Курсы/React Router v6.md",
     "pdp/2024. Октябрь.md",
+    "Screenshot 2024-11-07 at 20.51.38.png",
+    "Screenshot 2024-10-13 at 14.38.18.png",
+    "Screenshot 2024-10-13 at 01.05.40.png",
+    "pdp/Конференции.md",
     "pdp/Разобраться/- AutoAnimate.md",
     "pdp/Разобраться/- Turborepo.md",
-    "pdp/2024. Ноябрь.md",
     "pdp/Разобраться",
-    "pdp/Курсы/React Router v6.md",
     "pdp/Заметки Go.md",
-    "Screenshot 2024-10-13 at 01.05.40.png",
-    "Screenshot 2024-10-13 at 14.38.18.png",
     "1.png",
     "pdp/Вопросы по Go.md",
-    "pdp/Доклады.md",
     "pdp/Статьи.md",
-    "pdp/Конференции.md",
     "Screenshot 2024-10-10 at 22.35.34.png.md",
     "pdp",
     "Общее.md"
