@@ -189,4 +189,89 @@ useMutation({
 
 ------
 
+Вызов мутации вне компонента:
+
+![[Screenshot 2024-11-09 at 15.59.42.png]]
+
+Можно получить состояние мутации из другого компонента:
+
+```ts
+useMutation({
+	mutationKey: ['task', 'create'],
+})
+
+// или 
+
+useMutationState({
+	filters: {
+		mutationKey: ['task', 'create'],
+	},
+})
+
+```
+
+--------
+
+`resetQueries` - приводит запросы к начальному состоянию
+`removeQueries` - полностью удаляет их из кэша
+
+Например, при выходе из системы стоит делать
+
+```ts
+queryClient.removeQueries(); // удалить вообще все
+```
+
+-----
+
+Вызов запроса вне компонента.
+Если данные в кэше есть - то запрос сделан не будет, данные сразу вернутся. Обращение к кэшу зависит от настроек `staleTime`. Если он не выставлен, по дефолту это 0 и запросы будут делаться каждый раз.
+
+```ts
+const user = await queryClient.fetchQuery(
+	api.getUserById(user.id), // returns options
+)
+```
+
+-----
+Для PWA и поддержки оффлайна:
+`+` VitePWA плагин c конфигурацией workbox
+Выделенная строка для фикса проблемы с offline-first в RQ.
+
+![[Screenshot 2024-11-09 at 19.11.54.png]]
+
+Оффлайн режим работает только с Optimistic обновлениями. Pessimistic может подойти UX плане для отображения пользователю, что действие принято, но нет результата + можно показать статус оффлайна.
+
+-----
+
+Перехват ошибок и состояния загрузки при `useSuspenseQuery`:
+
+![[Screenshot 2024-11-09 at 19.26.18.png]]
+
+`useSuspenseQuery` не может быть `enabled: false`
+
+`useSuspenseQuery` - блокирующий из-за того, что бросает промис в момент загрузки в отличие от `useQuery`, которые выполняются параллельно
+
+При использовании Suspense подхода нужно использовать паттерн `Render As You Fetch`
+Этот подход будет работать даже быстрее, чем при использовании обычного `useQuery`.
+
+```ts
+queryClient.prefetchQuery(api.getUser(1));
+queryClient.prefetchQuery(api.getUser(2));
+queryClient.prefetchQuery(api.getUser(3));
+
+return <UsersList />
+
+// ---
+
+const UsersList = () => {
+	useUserSuspense(1);
+	useUserSuspense(2);
+	useUserSuspense(3);
+
+    // ...
+}
+
+```
+
+Можно запускать префетчинг в `loader` `react-router`
 

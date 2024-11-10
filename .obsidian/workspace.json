@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fa42811ce76bc247",
+        "id": "dbc7791e9b763ad2",
         "type": "tabs",
         "children": [
           {
-            "id": "abaf35f7e11565b3",
+            "id": "b7ef8a268d7011b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pdp/2024. Ноябрь.md",
+                "file": "pdp/Доклады.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024. Ноябрь"
+              "title": "Доклады"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdp/2024. Ноябрь.md"
+                "file": "pdp/Доклады.md"
               },
               "icon": "lucide-list",
-              "title": "Структура 2024. Ноябрь"
+              "title": "Структура Доклады"
             }
           }
         ],
@@ -163,13 +163,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abaf35f7e11565b3",
+  "active": "b7ef8a268d7011b4",
   "lastOpenFiles": [
     "pdp/Доклады.md",
-    "pdp/Курсы/React Query.md",
-    "pdp/2024. Ноябрь.md",
-    "pdp/Курсы/React Router v6.md",
+    "pdp/Вопросы по Go.md",
     "pdp/2024. Октябрь.md",
+    "pdp/2024. Ноябрь.md",
+    "pdp/Курсы/React Query.md",
+    "Screenshot 2024-11-09 at 19.26.18.png",
+    "Screenshot 2024-11-09 at 19.11.54.png",
+    "pdp/Курсы/React Router v6.md",
+    "Screenshot 2024-11-09 at 15.59.42.png",
     "Screenshot 2024-11-07 at 20.51.38.png",
     "Screenshot 2024-10-13 at 14.38.18.png",
     "Screenshot 2024-10-13 at 01.05.40.png",
@@ -179,7 +183,6 @@
     "pdp/Разобраться",
     "pdp/Заметки Go.md",
     "1.png",
-    "pdp/Вопросы по Go.md",
     "pdp/Статьи.md",
     "Screenshot 2024-10-10 at 22.35.34.png.md",
     "pdp",
