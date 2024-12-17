@@ -1,1 +1,0 @@
-https://coursehunter.net/course/enterprise-patterns

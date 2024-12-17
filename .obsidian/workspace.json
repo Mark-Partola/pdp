@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dbc7791e9b763ad2",
+        "id": "616bcb2cd58a0e6a",
         "type": "tabs",
         "children": [
           {
-            "id": "b7ef8a268d7011b4",
+            "id": "0080354b6fb81d07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pdp/Доклады.md",
+                "file": "pdp/1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Доклады"
+              "title": "1"
             }
           }
         ]
@@ -43,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 354.5
   },
   "right": {
     "id": "7321eed59f73a145",
@@ -127,10 +127,10 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               },
               "icon": "lucide-tags",
-              "title": "Теги"
+              "title": "Tags"
             }
           },
           {
@@ -139,14 +139,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdp/Доклады.md"
+                "file": "pdp/2024. Декабрь.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Доклады"
+              "title": "Outline of 2024. Декабрь"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -154,38 +154,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7ef8a268d7011b4",
+  "active": "0080354b6fb81d07",
   "lastOpenFiles": [
-    "pdp/Доклады.md",
-    "pdp/Вопросы по Go.md",
-    "pdp/2024. Октябрь.md",
+    "pdp/План 2025.md",
+    "pdp/1.md",
+    "pdp/2024. Декабрь.md",
     "pdp/2024. Ноябрь.md",
-    "pdp/Курсы/React Query.md",
-    "Screenshot 2024-11-09 at 19.26.18.png",
-    "Screenshot 2024-11-09 at 19.11.54.png",
-    "pdp/Курсы/React Router v6.md",
-    "Screenshot 2024-11-09 at 15.59.42.png",
-    "Screenshot 2024-11-07 at 20.51.38.png",
-    "Screenshot 2024-10-13 at 14.38.18.png",
-    "Screenshot 2024-10-13 at 01.05.40.png",
-    "pdp/Конференции.md",
-    "pdp/Разобраться/- AutoAnimate.md",
-    "pdp/Разобраться/- Turborepo.md",
-    "pdp/Разобраться",
-    "pdp/Заметки Go.md",
-    "1.png",
-    "pdp/Статьи.md",
-    "Screenshot 2024-10-10 at 22.35.34.png.md",
-    "pdp",
-    "Общее.md"
+    "Untitled.canvas",
+    "pdp/Доклады.md",
+    "pdp/разобраться/Pact, CDC.md",
+    "pdp/2024. Октябрь.md",
+    "pdp/system-design/Микросервисная архитектура/10. Тестирование.md",
+    "assets/Screenshot 2024-12-10 at 20.51.31.png",
+    "assets/Screenshot 2024-12-10 at 20.48.31.png",
+    "assets/Screenshot 2024-12-10 at 20.45.33.png",
+    "assets/Screenshot 2024-12-10 at 20.43.07.png",
+    "assets/Screenshot 2024-12-10 at 20.39.18.png",
+    "assets/Screenshot 2024-12-10 at 20.34.53.png",
+    "assets/Screenshot 2024-12-10 at 20.31.47.png",
+    "assets/Screenshot 2024-12-10 at 20.26.24.png",
+    "assets/Screenshot 2024-12-10 at 20.24.12.png",
+    "assets/Screenshot 2024-12-10 at 20.17.14.png",
+    "pdp/system-design/- разобрать.md",
+    "pdp/system-design/Архитектор высоких нагрузок/Проблемы высоких нагрузок/Типы серверов.md",
+    "pdp/system-design/Архитектор высоких нагрузок/Проблемы высоких нагрузок/Трехзвенная архитектура.md",
+    "pdp/system-design/Архитектор высоких нагрузок/Проблемы высоких нагрузок/Linux.md",
+    "pdp/system-design/Архитектор высоких нагрузок/Проблемы высоких нагрузок",
+    "pdp/заметки/Linux. Процессы.md",
+    "pdp/operating-systems/- разобрать.md",
+    "pdp/system-design/Архитектор высоких нагрузок",
+    "pdp/курсы/Foxminded. GRASP and GoF/Вопросы до старта.md",
+    "pdp/курсы/FSD. Паромов.md",
+    "pdp/курсы/Foxminded. GRASP and GoF",
+    "pdp/курсы/Foxminded. GRASP and GoF.md",
+    "pdp/курсы/Foxminded. Enterprise Patterns.md",
+    "pdp/курсы/Untitled",
+    "pdp/game-dev/Unity 2d.md",
+    "pdp/operating-systems/Write your own OS/source.md",
+    "pdp/game-dev",
+    "pdp/operating-systems/Write your own OS",
+    "pdp/operating-systems/Untitled.md",
+    "pdp/курсы/IT-системы и операционная система Linux.md",
+    "pdp/operating-systems/Build a modern computer/source.md",
+    "pdp/курсы/Cовременная разработка на GO.md",
+    "pdp/programming languages/golang/Вопросы по Go.md",
+    "pdp/operating-systems/Танненбаум. Операционные системы/readme.md",
+    "pdp/programming languages/golang",
+    "pdp/programming languages/cpp",
+    "pdp/programming languages",
+    "pdp/operating-systems/Build a modern computer",
+    "Untitled 1.canvas"
   ]
 }
